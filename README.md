@@ -4,7 +4,7 @@ This repository contains the materials developed as part of **Semester Project 0
 
 ### Repository Structure
 
-**Presentations**
+**Presentations/**
 - `AAV_paper_presentation.pdf`  
   Presentation covering the basics of weak measurement following the original Aharonov–Albert–Vaidman (AAV) formulation.
 - `SSD_paper_presentation.pdf`  
