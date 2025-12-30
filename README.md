@@ -1,10 +1,10 @@
-## Semester Project 01 – Weak Measurement
+## Semester Project 01 – Quantum Weak Measurement
 
 This repository contains the materials developed as part of **Semester Project 01**, focused on understanding the fundamentals of **quantum weak measurement**, based primarily on the works of **Aharonov–Albert–Vaidman (AAV)** and **Duck–Stevenson–Sudarshan (SSD)**.
 
 ### Repository Structure
 
-**Presentation/**
+**Presentations**
 - `AAV_paper_presentation.pdf`  
   Presentation covering the basics of weak measurement following the original Aharonov–Albert–Vaidman (AAV) formulation.
 - `SSD_paper_presentation.pdf`  
